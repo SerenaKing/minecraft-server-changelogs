@@ -28,7 +28,7 @@
 - N/A
 
 ### Curse
-- Updated forge version from `40.1.0` to `[40.1.16](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.16/forge-1.18.2-40.1.16-installer.jar)`
+- Updated forge version from `40.1.0` to [40.1.16](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.16/forge-1.18.2-40.1.16-installer.jar)
 - Created project: https://www.curseforge.com/minecraft/modpacks/vulturia-kingdom
 
 ## End Statement
