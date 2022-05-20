@@ -10,7 +10,8 @@
 - `Curse` in case of pack updates.
 
 ### Added
-- N/A
+- Tinkers Construct: https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/3784732
+- Appleskin: https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3686482
 
 ### Changed
 - Waystones: Only the owner may rename the waystone.
@@ -27,7 +28,7 @@
 - N/A
 
 ### Curse
-- Updated forge version from `40.1.0` to `40.1.14`
+- Updated forge version from `40.1.0` to `[40.1.16](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.16/forge-1.18.2-40.1.16-installer.jar)`
 - Created project: https://www.curseforge.com/minecraft/modpacks/vulturia-kingdom
 
 ## End Statement
