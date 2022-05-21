@@ -9,7 +9,6 @@
 
 ### Added
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/3749540)
-- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania/files/3789677)
 - [Alex Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3785938)
 - [Farmers Deleight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/3784851)
 - [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt/files/3745784)
@@ -34,7 +33,6 @@
 
 ### Curse
 - Update: Oh The Biomes You Go, Sophisticated Backpacks, InsaneLib, Upgraded Netherite, Iceberg, Shops
-- Forge: `40.1.19` from `40.1.16`
 
 ## End Statement
 *We are still hard awork to update the mods, quests, story and more about this pack. Please be patient with us as we update day by day on our localhosted server.
