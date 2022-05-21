@@ -21,6 +21,8 @@
 - [Explorers Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass/files/3764373)
 - [YUNG: API](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files/3779088)<br>
   [YUNG: Travelers Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles/files/3778233)
+- [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg/files/3798817)
+- [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3785773)
 
 ### Changed
 - PlayerRevive: `"requiredReviveProgress": 25.0` from `"requiredReviveProgress": 100.0`
@@ -31,7 +33,8 @@
 - N/A
 
 ### Curse
-- Update: Oh The Biomes You Go, Sophisticated Backpacks, InsaneLib
+- Update: Oh The Biomes You Go, Sophisticated Backpacks, InsaneLib, Upgraded Netherite, Iceberg, Shops
+- Forge: `40.1.19` from `40.1.16`
 
 ## End Statement
 *We are still hard awork to update the mods, quests, story and more about this pack. Please be patient with us as we update day by day on our localhosted server.
