@@ -10,9 +10,8 @@
 ## Installation
 *This repo houses 3 separate folders. `Serverpack`, `server` & `client` each explained respectively.*
 - `Server Pack`: This is the easiest way to setup a server. All you need to do is setup a forger server and drop these mods in the `mods` folder.
-- `Server`: These are mods that the user should have in their local mods folder but should also be loaded onto the server.
-- `Client`: These are extra mods that are not loaded with the server but can make the experience better on the client side.
-- `Note`: For the modpack to fully work at-least the `server` should be installed into the users local mods folder.
+- `Mods`: These are mods that the user should have in their local mods folder but should also be loaded onto the server.
+- `Note`: The `mods` folder should at-least contain all mods in the `Mods` Section of this repo while the server should ONLY contain `Server Pack`
 
 ## Credits
 **Disclaimer** - *This modpack makes use of other people their mods. As shown in the modlist thanks to those creators to make this possible!*<br>
