@@ -15,7 +15,7 @@
 - `Note`: For the modpack to fully work at-least the `server` should be installed into the users local mods folder.
 
 ## Credits
-**Disclaimer** - *This modpack makes use of other people their mods. As shown in the modlist thanks to those creators to make this possible!*
-**Creator** - Lanzaned
-**Story** - Vulturia03
-**Testers** - Skyplayzq / GGTYLLOP
+**Disclaimer** - *This modpack makes use of other people their mods. As shown in the modlist thanks to those creators to make this possible!*<br>
+**Creator** - Lanzaned<br>
+**Story** - Vulturia03<br>
+**Testers** - Skyplayzq / GGTYLLOP<br>
