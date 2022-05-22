@@ -5,7 +5,7 @@
 *Soon to come!*
 
 ## Dependecnies 
-- Forge: 40.1.16+
+- Forge: 40.1.19+
 
 ## Installation
 *This repo houses 3 separate folders. `Serverpack`, `server` & `client` each explained respectively.*
